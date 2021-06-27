@@ -203,7 +203,7 @@ public class HelloDecodeClass extends ClassLoader {
 ```
 
 # 3.（必做）画一张图，展示 Xmx、Xms、Xmn、Meta、DirectMemory、Xss 这些内存参数的关系。
-![818e4dff5be18bb182aa19e4c24f19ec.png](:/41fdeca441f647ce802657fd424a8458)
+https://github.com/FreelyMajorParus/geekbind/blob/main/41fdeca441f647ce802657fd424a8458.png
 
 # 4. (选做)检查一下自己维护的业务系统的 JVM 参数配置，用 jstat 和 jstack、jmap 查看一下详情，并且自己独立分析一下大概情况，思考有没有不合理的地方，如何改进。
 以一个后台管理系统为例做分析: 

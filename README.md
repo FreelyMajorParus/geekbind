@@ -1,2 +1,2 @@
 # first issues
-Only for geekbang homework on course 'Java Promotion'.
+Only for geekbang homework on the course 'Java Promotion'.

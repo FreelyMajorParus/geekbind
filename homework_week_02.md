@@ -1,9 +1,9 @@
 
-一、写一段对于不同 GC 和堆内存的总结；\n
-二、使用 HttpClient 或 OkHttp 访问  http://localhost:8801；\n
-三、使用压测工具（wrk 或 sb）演练；\n
-四、演练自己本地有可以运行的项目；\n
-五、使用 GCLogAnalysis.java 自己演练一遍串行 / 并行 /CMS/G1 的案例；\n
+一、写一段对于不同 GC 和堆内存的总结；</br>
+二、使用 HttpClient 或 OkHttp 访问  http://localhost:8801；</br>
+三、使用压测工具（wrk 或 sb）演练；</br>
+四、演练自己本地有可以运行的项目；</br>
+五、使用 GCLogAnalysis.java 自己演练一遍串行 / 并行 /CMS/G1 的案例；</br>
 
 ## 4.（必做）根据上述自己对于 1 和 2 的演示，写一段对于不同 GC 和堆内存的总结，提交到 GitHub。
 

@@ -21,7 +21,7 @@ ZGC & ShennandoahGC: 由于G1和CMS最大的差异是在堆空间划分上，所
 
 ## 6.（必做）写一段代码，使用 HttpClient 或 OkHttp 访问  http://localhost:8801 ，代码提交到 GitHub.
 
-HttpClient(引入的版本: )示例如下: 
+HttpClient(引入的版本: 4.5.13)示例如下: 
 ```java
 public class HttpClientTest {
     static CloseableHttpClient httpClient = HttpClientBuilder.create()
@@ -47,7 +47,7 @@ public class HttpClientTest {
     }
 }
 ```
-OkHttp 示例如下:
+OkHttp(引入的版本: 4.9.1) 示例如下:
 ```java
 public class OkHttpClientTest {
     public static void main(String[] args) throws IOException {
